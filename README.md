@@ -4,7 +4,7 @@ This repository contains verified certificates showcasing my skills and training
 
 ---
 
-## ✅ Certifications
+##  Certifications
 
 ### 1. Data Analytics Professional Certificate – Live Wire Training Institute  
 **Issued by:** Live Wire Training Institute  
@@ -14,5 +14,5 @@ This repository contains verified certificates showcasing my skills and training
 
 ---
 
-## 📌 How to Verify
+##  How to Verify
 All certificates uploaded here are in PDF format and can be directly accessed and validated.
